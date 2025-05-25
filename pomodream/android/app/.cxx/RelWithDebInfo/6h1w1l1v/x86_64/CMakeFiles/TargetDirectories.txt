@@ -1,0 +1,2 @@
+C:/Users/00yus/OneDrive/Belgeler/flutter/pomodream/pomodream/android/app/.cxx/RelWithDebInfo/6h1w1l1v/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/00yus/OneDrive/Belgeler/flutter/pomodream/pomodream/android/app/.cxx/RelWithDebInfo/6h1w1l1v/x86_64/CMakeFiles/rebuild_cache.dir
